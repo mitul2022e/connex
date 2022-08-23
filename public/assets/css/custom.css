@@ -1,0 +1,28 @@
+.services-content .serv-sec{
+    margin: 0;
+    padding-bottom: 30px;
+}
+img.banner-img.img-thumbnail {
+    height: 250px;
+    object-fit: cover;
+}
+.services-content .serv-sec .detail h5{
+    display: -webkit-inline-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.wtf-menu .item-select {
+    background-color: #25255b;
+    color: #fff !important;
+}
+
+
+
+  
+   
+  
+   
+  
