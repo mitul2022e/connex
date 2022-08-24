@@ -33,7 +33,7 @@
 
                 <div class="col-md-3">
                     <a href="Default.html" class="logo">
-                        <img src="{{asset('assets/images/logo2.png')}}" alt=""></a>
+                        <img src="{{asset('assets/images/connex.png')}}" alt=""></a>
                 </div>
 
                 <div class="col-md-9">

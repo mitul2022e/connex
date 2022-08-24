@@ -39,9 +39,9 @@ Route::get('medical-equipment',[UserController::class,'medicalequipment'])->name
 
 Route::get('our-expertise',[UserController::class,'ourExpertise'])->name('ourExpertise');
 
-Route::get('Industry',[UserController::class,'industry'])->name('industry');
+Route::get('industry',[UserController::class,'industry'])->name('industry');
 
-Route::get('Analytical',[UserController::class,'analytical'])->name('analytical');
+Route::get('analytical',[UserController::class,'analytical'])->name('analytical');
 
 Route::get('why-connex',[UserController::class,'whyConnex'])->name('whyConnex');
 

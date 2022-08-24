@@ -86,7 +86,7 @@
 
                         <div class="col-md-4">
                             <div class="serv-sec xs-mb-0">
-                                <img class="banner-img img-thumbnail" src="{{asset('assets/HelthcareImages/ULTRASOUND/machines-2.jpg')}}" alt="">
+                                <img class="banner-img img-thumbnail" src="{{asset('assets/HelthcareImages/ULTRASOUND/Ultrasound2.jpg')}}" alt="">
                                 <div class="detail" style="background: #25255b;margin: 0;padding: 25px;text-align: center;">
                                     <h5 style="color:#fff">Ultrasound</h5>
                                 </div>

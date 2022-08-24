@@ -70,7 +70,13 @@
             <!--Start Header-->
             @include('layouts.header')
             <!--End Header-->
-
+            <div class="container">
+                <div id="page" class="">
+                    <header class="header">
+                        <a href="#menu"></a>
+                    </header>
+                </div>
+            </div>
             <!-- Mobile Menu Start -->
             @yield('content')
 
