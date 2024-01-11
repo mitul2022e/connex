@@ -17,7 +17,7 @@ use App\Http\Controllers\UserController;
 //     return view('user.home');
 // });
 
-Route::get('home',[UserController::class,'home'])->name('home');
+Route::get('/',[UserController::class,'home'])->name('home');
 
 Route::get('about-us',[UserController::class,'about'])->name('about');
 

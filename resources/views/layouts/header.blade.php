@@ -32,7 +32,7 @@
             <div class="row">
 
                 <div class="col-md-3">
-                    <a href="Default.html" class="logo">
+                    <a href="/" class="logo">
                         <img src="{{asset('assets/images/connex.png')}}" alt=""></a>
                 </div>
 
